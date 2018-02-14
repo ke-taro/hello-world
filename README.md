@@ -9,3 +9,5 @@ $ import pandas as pd
 > test テスト 始まります
 
 日本語で書きます
+
+test2.py を追加しました．
